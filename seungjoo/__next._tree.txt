@@ -1,2 +1,2 @@
 :HL["/saymyname-website/_next/static/chunks/0mcfnu5tkx_md.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"member","param":{"type":"d","key":"seungjoo","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"xgfau6xN2rSlGH2YpqmnE"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"member","param":{"type":"d","key":"seungjoo","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"p9iqVOO7rrqJoinrM0kKe"}
