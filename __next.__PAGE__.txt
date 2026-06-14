@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[47257,["/saymyname-website/_next/static/chunks/05kegu438r2_7.js","/saymyname-website/_next/static/chunks/29lrohnrvwxy-.js"],"ClientPageRoot"]
-3:I[39329,["/saymyname-website/_next/static/chunks/05kegu438r2_7.js","/saymyname-website/_next/static/chunks/29lrohnrvwxy-.js","/saymyname-website/_next/static/chunks/1xyk9ycjmkvs9.js"],"default"]
-6:I[97367,["/saymyname-website/_next/static/chunks/05kegu438r2_7.js","/saymyname-website/_next/static/chunks/29lrohnrvwxy-.js"],"OutletBoundary"]
+2:I[47257,["/saymyname-website/_next/static/chunks/18zgwtnf58qxm.js","/saymyname-website/_next/static/chunks/29lrohnrvwxy-.js","/saymyname-website/_next/static/chunks/3xuvv3-3l-wur.js"],"ClientPageRoot"]
+3:I[39329,["/saymyname-website/_next/static/chunks/18zgwtnf58qxm.js","/saymyname-website/_next/static/chunks/29lrohnrvwxy-.js","/saymyname-website/_next/static/chunks/3xuvv3-3l-wur.js","/saymyname-website/_next/static/chunks/235e1iscfhix2.js"],"default"]
+6:I[97367,["/saymyname-website/_next/static/chunks/18zgwtnf58qxm.js","/saymyname-website/_next/static/chunks/29lrohnrvwxy-.js","/saymyname-website/_next/static/chunks/3xuvv3-3l-wur.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/saymyname-website/_next/static/chunks/1xyk9ycjmkvs9.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2PAO_jGAIQNoSyxxUia49"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/saymyname-website/_next/static/chunks/235e1iscfhix2.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"RSmPl8_R9aaI-Gps132tO"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
