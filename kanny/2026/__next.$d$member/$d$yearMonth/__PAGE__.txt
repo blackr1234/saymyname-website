@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[96068,["/saymyname-website/_next/static/chunks/3g23c9w_d76wd.js","/saymyname-website/_next/static/chunks/29lrohnrvwxy-.js","/saymyname-website/_next/static/chunks/3vu9d2jz91v2v.js","/saymyname-website/_next/static/chunks/3469lk4aid-xb.js"],"default"]
-3:I[54079,["/saymyname-website/_next/static/chunks/3g23c9w_d76wd.js","/saymyname-website/_next/static/chunks/29lrohnrvwxy-.js","/saymyname-website/_next/static/chunks/3vu9d2jz91v2v.js","/saymyname-website/_next/static/chunks/3469lk4aid-xb.js"],"default"]
-4:I[97367,["/saymyname-website/_next/static/chunks/3g23c9w_d76wd.js","/saymyname-website/_next/static/chunks/29lrohnrvwxy-.js","/saymyname-website/_next/static/chunks/3vu9d2jz91v2v.js"],"OutletBoundary"]
+2:I[96068,["/saymyname-website/_next/static/chunks/3g23c9w_d76wd.js","/saymyname-website/_next/static/chunks/29lrohnrvwxy-.js","/saymyname-website/_next/static/chunks/2izwiff4br8ud.js","/saymyname-website/_next/static/chunks/3469lk4aid-xb.js"],"default"]
+3:I[54079,["/saymyname-website/_next/static/chunks/3g23c9w_d76wd.js","/saymyname-website/_next/static/chunks/29lrohnrvwxy-.js","/saymyname-website/_next/static/chunks/2izwiff4br8ud.js","/saymyname-website/_next/static/chunks/3469lk4aid-xb.js"],"default"]
+4:I[97367,["/saymyname-website/_next/static/chunks/3g23c9w_d76wd.js","/saymyname-website/_next/static/chunks/29lrohnrvwxy-.js","/saymyname-website/_next/static/chunks/2izwiff4br8ud.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"member":"kanny"}],["$","$L3",null,{"member":"kanny","yearMonth":"2026"}]],[["$","script","script-0",{"src":"/saymyname-website/_next/static/chunks/3469lk4aid-xb.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"93aqXK-W5XoqaFjBV-9le"}
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"member":"kanny"}],["$","$L3",null,{"member":"kanny","yearMonth":"2026"}]],[["$","script","script-0",{"src":"/saymyname-website/_next/static/chunks/3469lk4aid-xb.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"bfrcQOpVQm5biOrFxxymW"}
 6:null
